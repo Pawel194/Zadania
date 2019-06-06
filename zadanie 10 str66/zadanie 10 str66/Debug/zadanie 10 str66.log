@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\Pawcio\source\repos\zadanie 10 str66\zadanie 10 str66\Source.cpp(3,1): error C2008:  '=': unexpected in macro definition
+C:\Users\Pawcio\source\repos\zadanie 10 str66\zadanie 10 str66\Source.cpp(4,8): error C2006:  '#using': expected "FILENAME" or <FILENAME>
+C:\Users\Pawcio\source\repos\zadanie 10 str66\zadanie 10 str66\Source.cpp(4,24): error C1190:  System::Object not found, missing /clr option or missing import of standard assemblies?
